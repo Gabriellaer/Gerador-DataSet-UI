@@ -44,7 +44,10 @@ Python 3.10 ou superior.
 python src/gerador.py --usuarios 30       # gera o dataset sintético
 python src/validacao.py                   # valida e produz as figuras
 ```
-
+```UI
+  A partir da root do projeto
+  python3 run_ui.py
+```
 O gerador aceita `--usuarios`, `--fatores`, `--semente` e `--cenario`
 (`normal`, `congestionado`, `edge`, `render_limitado`). A validação aceita
 `--usuarios` (tamanho do corpus sintético) e `--repeticoes` (sementes por
