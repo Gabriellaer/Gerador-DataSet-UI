@@ -1,0 +1,16 @@
+# Pontos turísticos de Pirenópolis (GO) para o caso de uso
+# Fonte: dados públicos (Google Maps, Wikipedia, Mapcarta) — contagens aproximadas
+# Formato: nome;categoria;avaliacoes;lat;lon;nota
+# Primeira linha de dados = partida (Igreja Matriz)
+nome;categoria;avaliacoes;lat;lon;nota
+Igreja Matriz Nossa Senhora do Rosário;igreja;545;-15.8502;-48.9573;4.5
+Centro Histórico de Pirenópolis;centro_historico;1813;-15.8510;-48.9580;4.8
+Cachoeira do Abade;cachoeira;1159;-15.8200;-48.9300;4.5
+Cachoeira Santa Maria;cachoeira;634;-15.8150;-48.9250;4.0
+Cachoeira dos Dragões;cachoeira;545;-15.8250;-48.9350;4.5
+Igreja Nossa Senhora do Carmo;igreja;300;-15.8480;-48.9600;4.5
+Igreja Nosso Senhor do Bonfim;igreja;250;-15.8470;-48.9610;4.5
+Cine Teatro Pireneus;teatro;150;-15.8515;-48.9585;4.5
+Theatro Sebastião Pompeu de Pina;teatro;80;-15.8520;-48.9590;4.5
+Ponte Pênsil Dona Benta;ponte;120;-15.8530;-48.9600;4.5
+Parque Estadual da Serra dos Pireneus;parque;400;-15.8000;-48.9000;4.7
