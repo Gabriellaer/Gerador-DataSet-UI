@@ -1,3 +1,9 @@
+**#Autoria do trabalho original**
+Boanerges Cipriano Gomes Junior
+
+**#Autoria da UI**
+Gabriel Marques, Gabriel Oliveira e Pedro Rosa
+
 # Simulador de datasets sintéticos de QoE para ambientes imersivos
 
 Gerador de dados artificiais para gerenciamento de recursos em realidade virtual
